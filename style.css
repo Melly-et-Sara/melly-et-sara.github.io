@@ -1,0 +1,13 @@
+html {
+    background:
+        fixed
+        center / cover
+        url(fond.jpg)
+      ;
+  }
+
+img {
+    vertical-align: top;
+    border-radius: 100px;
+    height: 500px;
+}
